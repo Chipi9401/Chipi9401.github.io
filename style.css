@@ -1,0 +1,32 @@
+/* Estilo retro */
+body {
+  background-color: black;
+  color: lime;
+  font-family: 'Courier New', monospace;
+  text-align: center;
+}
+
+header, footer {
+  background-color: purple;
+  color: white;
+  padding: 10px;
+}
+
+a {
+  color: yellow;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+marquee {
+  color: cyan;
+  font-size: 20px;
+}
+
+img {
+  border: 5px solid magenta;
+  margin: 20px;
+}
